@@ -1,0 +1,22 @@
+{
+  "title": "구별 수요 예측 모델",
+  "features": [
+    {
+      "name": "gu",
+      "label": "자치구",
+      "type": "select",
+      "options": [
+        { "value": 1, "text": "강남구" },
+        { "value": 2, "text": "강동구" },
+        { "value": 3, "text": "강북구" }
+      ]
+    },
+    {
+      "name": "month",
+      "label": "월",
+      "type": "number",
+      "min": 1,
+      "max": 12
+    }
+  ]
+}

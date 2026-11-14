@@ -1,0 +1,8 @@
+# requirements.txt — ASCII(영문)만! 한글 주석을 넣으면 pip 가 깨진다.
+# 이 버전은 model.pkl 을 학습한 환경(01)과 반드시 같아야 한다.
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+scikit-learn==1.9.0
+pandas==3.0.3
+numpy==2.4.6
+joblib==1.5.3
