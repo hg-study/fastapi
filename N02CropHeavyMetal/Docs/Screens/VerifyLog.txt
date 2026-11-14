@@ -1,0 +1,22 @@
+  캡처 03-1_MainScreen.png                 10198 bytes
+  [인증] 로그인 전 /predict -> 폼 안 뜸/로그인으로 이동: True  (화면: LOGIN PAGE)
+  캡처 03-0_BlockedBeforeLogin.png            12889 bytes
+  캡처 03-2_Join.png                 13420 bytes
+  캡처 03-3_Login.png                  13507 bytes
+  [폼 자동생성] select 4개 + number 3개 = 입력 7개
+  캡처 03-4_PredictFormAuto.png             35715 bytes
+  [고위험] 예측 결과 : 부적합
+  캡처 03-5_HighRiskResult.png             41703 bytes
+  [저위험] 예측 결과 : 적합
+  [이력] 2행
+  캡처 03-6_LowRiskAndHistory.png           46790 bytes
+  [수정모드] 이력 #7 수정
+  캡처 03-7_EditMode.png                 44050 bytes
+  [수정후] 예측 결과 : 부적합
+  [수정후 이력] 7	부적합	{"item":0,"stage":1,"method":1,"sido":1,"month":11,"area":10000,"volume":100}	2026-07-15T04:53:53	수정삭제
+  캡처 03-8_AfterEdit.png                  46887 bytes
+  [삭제] 이력 2행 -> 1행
+  캡처 03-9_AfterDelete.png                  41902 bytes
+  [Swagger] 엔드포인트 블록 8개
+  캡처 02-1_Swagger.png              47225 bytes
+  JS 에러: 없음
