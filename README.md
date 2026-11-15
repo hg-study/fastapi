@@ -11,27 +11,27 @@
 
 ---
 
-### FastAPI Init
+### FastAPI 시작과 자동 문서
 - [FastAPI Init 이론](./Theory/01FastApiInit.md)
     - [F01Init main.py](./F01Init/main.py)
     - [Dockerfile](./F01Init/Dockerfile)
     - [compose 파일](./F01Init/docker-compose.yml)
     - [requirements](./F01Init/requirements.txt)
 
-### FastAPI Basic
+### 요청 본문, 파라미터, CORS
 - [FastAPI Basic 이론](./Theory/02FastApiBasic.md)
     - [F02Basic main.py](./F02Basic/main.py)
     - [feature_spec.json](./F02Basic/feature_spec.json)
     - [Dockerfile](./F02Basic/Dockerfile)
 
-### FastAPI CRUD
+### FastAPI로 CRUD 만들기
 - [FastAPI CRUD 이론](./Theory/03FastApiCrud.md)
     - [MainBefore.py](./F03Crud/MainBefore.py)
     - [main.py](./F03Crud/main.py)
     - [store.py](./F03Crud/store.py)
     - [memos.db](./F03Crud/memos.db)
 
-### ML Fullstack Sample
+### ML 풀스택 샘플
 - [ML Fullstack Sample 이론](./Theory/04MlFullstackSample.md)
     - [작업 지시서](./N01FireOccurrence/Docs/WorkOrder.html)
     - [단계별 상세 가이드](./N01FireOccurrence/S01Model/DetailGuide.html)
